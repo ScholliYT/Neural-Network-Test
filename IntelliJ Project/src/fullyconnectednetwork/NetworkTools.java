@@ -1,3 +1,5 @@
+package fullyconnectednetwork;
+
 public class NetworkTools {
 
     public static double[] createArray(int size, double init_value){
